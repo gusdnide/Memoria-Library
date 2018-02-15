@@ -29,5 +29,7 @@ Simples biblioteca contendo varias funçoes para criar trainers e varios outros 
    m.Escrever(0x151515, 999); // Escreve no 0x151515  o valor 999 
 ```
 
+## Releases
+[DOWNLOAD](https://github.com/gusdnide/Memoria-Library/releases/tag/1.0)
 
 Deixe os devidos creditos, se você é uma pessoa respeitavel!
